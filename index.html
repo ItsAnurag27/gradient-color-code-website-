@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+  body {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(
+      to right top,
+      #051937,
+      #004d7a,
+      #008793,
+      #00bf72,
+      #a8eb12,
+      #af3421
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2.2rem;
+    font: bold;
+    font-size: 0.7rem;
+  }
+
+  button {
+
+  }
+
+  #myButton {
+    background-color:bisque;
+    color: rgb(34, 34, 34);
+
+  }
+
+  #MyButton2 {
+    background-color: rgb(168, 235, 18);
+    color: rgb(34, 34, 34);
+  }
+
+  .copyCode {
+  width: 250px;
+  height: 50px;
+  background-color: #f2f2f2; /* Light gray background */
+  border: 1px solid #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  background-color:cadetblue;
+  font: bold;
+
+  }
+</style>
+<body>
+  <section>
+    <div>
+      <button id="myButton">#051938</button>
+      <button id="MyButton2">#008793</button>
+    </div>
+    <h2> Copy your color code (just click below)</h2>
+    <div class="copyCode">
+      background-image: linear-gradient(to right , rgb(.....),rgb(.....))
+    </div>
+  </section>
+  <script src="index.js"></script>
+</body>
+</html>
