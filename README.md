@@ -1,3 +1,8 @@
+SCREENSHOT:-
+
+![Screenshot (124)](https://github.com/ItsAnurag27/gradient-color-code-website-/assets/140192020/07691842-6d48-4cee-b43b-976a2d94b08a)
+![Screenshot (125)](https://github.com/ItsAnurag27/gradient-color-code-website-/assets/140192020/ec1773a0-a02a-4d33-9f51-e6dc2fde8878)
+
 # gradient-color-code-website-
 Interactive Gradient Generation: Click on the color buttons to dynamically generate beautiful linear gradients across the left and right sides of the screen. Customizable Color Selection: Choose from a meticulously curated palette of preset color combinations or unleash your creativity with the built-in randomizer.
 
